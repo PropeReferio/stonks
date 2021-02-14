@@ -2,7 +2,7 @@
 
 Usage:
 
-usage: stonks [-h] -p PRINCIPAL (-y YEARS | -t) (-r ROI | -s SYMBOL)
+stonks [-h] -p PRINCIPAL (-y YEARS | -t) (-r ROI | -s SYMBOL)
 
 A CLI ROI calculator. Prints out the final value of an investment in a table format,
 or for a specific year.
